@@ -12,5 +12,5 @@ Adding the SVG was something different and hard .
 
 # What would I do differently now?
 
-Fix repeated content and check for spelling/grammar.
+Fix repeated content and check for spelling and grammar.
 Make the contact links easily accesible .
